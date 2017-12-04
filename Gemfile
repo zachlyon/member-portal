@@ -30,6 +30,6 @@ group :development, :test do
   gem 'guard-rubocop', '~> 1.3.0'
   gem 'license_finder', '~> 4.0.2'
   gem 'rubocop', '~> 0.51.0', require: false
-  gem 'selenium-webdriver', '~> 3.7.0'
+  gem 'selenium-webdriver', '~> 3.8.0'
   gem 'simplecov', '~> 0.15.1', require: false
 end
