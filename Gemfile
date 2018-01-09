@@ -11,7 +11,7 @@ gem 'pg', '~> 0.21.0'
 gem 'puma', '~> 3.11.0'
 gem 'rails', '~> 5.1.4'
 gem 'sass-rails', '~> 5.0.7'
-gem 'turbolinks', '~> 5.0.1'
+gem 'turbolinks', '~> 5.1.0'
 gem 'uglifier', '~> 3.2.0'
 
 group :development do
